@@ -24,6 +24,12 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Actualizaciones",
+        "pages": [
+          "changelog"
+        ]
       }
     ],
     "global": {
